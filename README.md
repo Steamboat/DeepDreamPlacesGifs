@@ -7,5 +7,6 @@ https://github.com/Dhar/image-dreamer/blob/master/Vagrantfile
 We used the MIT Places CNN instead of ImageNet, which you'll find a guide for here - 
 https://www.reddit.com/r/deepdream/comments/3c2s0v/newbie_guide_for_windows/
 
-We're also using the ImageMagick library to build the image series into Gifs.
+We're also using the ImageMagick library to build the image series into Gifs, but that isn't required to make this code work - 
+http://www.imagemagick.org/Usage/anim_basics/
 
